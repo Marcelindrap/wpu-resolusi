@@ -5,6 +5,7 @@
   * Framework Javascript
     ^ vue
     ^ react
+    ^ angular
   - sturktur data dasar
   - php framework
     ^ laravel
